@@ -19,6 +19,11 @@ Each task includes:
 - MoviePy
 - PIL
 
+## Video Outputs
+The video files are included in the repository under Task 1 / outputs.  
+If GitHub cannot preview the MP4 files in browser, please download them locally to play.
+
+
 ## How to Run
 Each task folder contains a `code` directory with a `main.py` file.
 Install dependencies using `requirements.txt` and run `main.py`.
