@@ -1,4 +1,4 @@
-# AI Internship Assignment – Ansh Abrol
+# AI Internship Assignment 
 
 This repository contains solutions for the AI Internship Assignment.
 
